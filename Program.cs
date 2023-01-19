@@ -4,7 +4,7 @@ if (x%2==0)
 {
     Console.WriteLine($"{x} кратное число");
 }
-if (x%2!=0)
+else
 {
      Console.WriteLine($"{x} не кратное число");
 }
